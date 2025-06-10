@@ -12,6 +12,10 @@
 
 ---
 
+## Dataset
+
+> https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data
+
 | Index | Feature Name         | Tipe    |
 | ----- | -------------------- | ------- |
 | 0     | class                | integer |
@@ -28,6 +32,8 @@
 | 11    | Hue                  | float   |
 | 12    | OD280/OD315          | float   |
 | 13    | Proline              | float   |
+
+> https://www.kaggle.com/datasets/alyelbadry/house-pricing-dataset
 
 ---
 
