@@ -8,6 +8,8 @@
 | Gregorius Setiadharma | 5025231268 | Pembelajaran Mesin (D) | Kelompok 6 |
 | Muhammad Davin Aulia Risky | 5025231275 | Pembelajaran Mesin (D) | Kelompok 6 |
 
+![deskripsi-final-project](./asset/deskripsi-final-project.png)
+
 ---
 
 | Index | Feature Name         | Tipe    |
