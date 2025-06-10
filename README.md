@@ -35,12 +35,12 @@
 
 ---
 
-| Algoritma                     | Catatan                                                                               |
-| ----------------------------- | ------------------------------------------------------------------------------------- |
-| **K-Means Clustering**        | Uji tanpa label (evaluasi dengan silhouette score atau ARI)                           |
-| **Hierarchical Clustering**   | Bisa divisualisasi dengan dendrogram                                                  |
-| **Decision Tree**             | Klasifikasi jenis wine                                                                |
-| **K-Nearest Neighbor**        | Klasifikasi jenis wine                                                                |
-| **Naive Bayes**               | Klasifikasi jenis wine                                                                |
-| **Support Vector Machine**    | Multiclass dengan SVM One-vs-One                                                      |
-| **Regresi Linear**            | Prediksi salah satu fitur numerik dari yang lain (misalnya "Alcohol" dari fitur lain) |
+| Algoritma                  | Catatan                                                                 |
+|----------------------------|-------------------------------------------------------------------------|
+| **Decision Tree**          | Klasifikasi jenis wine                                                  |
+| **K-Nearest Neighbor**     | Klasifikasi jenis wine                                                  |
+| **Naive Bayes**            | Klasifikasi jenis wine                                                  |
+| **Logistic Regression**    | Cocok untuk klasifikasi biner seperti "Red" vs "White" wine             |
+| **Random Forest**          | Ensemble dari banyak Decision Tree, cocok untuk meningkatkan akurasi    |
+| **XG Boost**               | Gradient boosting yang kuat untuk klasifikasi dengan performa tinggi    |
+| **Support Vector Machine** | Multiclass dengan SVM One-vs-One                                        |
