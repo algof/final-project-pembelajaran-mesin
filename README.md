@@ -35,6 +35,29 @@
 
 ---
 
+## Features
+
+| No. | Nama Fitur            | Tipe Data   | Deskripsi                                                                        | 
+| --- | --------------------- | ----------- | -------------------------------------------------------------------------------- |
+| 1   | class                 | Kategorikal | Kelas anggur (1, 2, atau 3) mewakili tiga kultivar berbeda.                      | 
+| 2   | alcohol               | Numerik     | Persentase alkohol dalam volume (%) dari anggur.                                 | 
+| 3   | malic\_acid           | Numerik     | Konsentrasi asam malat dalam miligram per liter (mg/L).                          | 
+| 4   | ash                   | Numerik     | Kandungan abu dalam gram per liter (g/L).                                        | 
+| 5   | alcalinity\_of\_ash   | Numerik     | Alkalinitas abu, diukur dengan pH dari larutan abu.                              | 
+| 6   | magnesium             | Numerik     | Konsentrasi magnesium dalam miligram per liter (mg/L).                           | 
+| 7   | total\_phenols        | Numerik     | Total fenol dalam miligram per liter (mg/L).                                     | 
+| 8   | flavanoids            | Numerik     | Konsentrasi flavanoid dalam miligram per liter (mg/L).                           | 
+| 9   | nonflavanoid\_phenols | Numerik     | Konsentrasi fenol non-flavanoid dalam miligram per liter (mg/L).                 | 
+| 10  | proanthocyanins       | Numerik     | Konsentrasi proantosianin dalam miligram per liter (mg/L).                       | 
+| 11  | color\_intensity      | Numerik     | Intensitas warna anggur, diukur dengan absorbansi pada panjang gelombang 420 nm. | 
+| 12  | hue                   | Numerik     | Hue anggur, diukur dengan absorbansi pada panjang gelombang 520 nm.              | 
+| 13  | od280/od315           | Numerik     | Rasio absorbansi pada panjang gelombang 280 nm dan 315 nm.                       | 
+| 14  | proline               | Numerik     | Konsentrasi prolin dalam miligram per liter (mg/L).                              | 
+
+---
+
+## Algoritma Supervised Learning (Klasifikasi)
+
 | Algoritma                  | Catatan                                                                 |
 |----------------------------|-------------------------------------------------------------------------|
 | **Decision Tree**          | Klasifikasi jenis wine                                                  |
