@@ -36,6 +36,5 @@
 | **Decision Tree**             | Klasifikasi jenis wine                                                                |
 | **K-Nearest Neighbor**        | Klasifikasi jenis wine                                                                |
 | **Naive Bayes**               | Klasifikasi jenis wine                                                                |
-| **Artificial Neural Network** | Multiclass classification (3 kelas)                                                   |
 | **Support Vector Machine**    | Multiclass dengan SVM One-vs-One                                                      |
 | **Regresi Linear**            | Prediksi salah satu fitur numerik dari yang lain (misalnya "Alcohol" dari fitur lain) |
