@@ -14,7 +14,7 @@
 
 ## Dataset
 
-> https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data
+> https://archive.ics.uci.edu/dataset/186/wine+quality
 
 ---
 
