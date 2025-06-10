@@ -40,7 +40,7 @@
 | **Decision Tree**          | Klasifikasi jenis wine                                                  |
 | **K-Nearest Neighbor**     | Klasifikasi jenis wine                                                  |
 | **Naive Bayes**            | Klasifikasi jenis wine                                                  |
-| **Logistic Regression**    | Cocok untuk klasifikasi biner seperti "Red" vs "White" wine             |
+| **Logistic Regression**    | Klasifikasi jenis wine                                                  |
 | **Random Forest**          | Ensemble dari banyak Decision Tree, cocok untuk meningkatkan akurasi    |
 | **XG Boost**               | Gradient boosting yang kuat untuk klasifikasi dengan performa tinggi    |
 | **Support Vector Machine** | Multiclass dengan SVM One-vs-One                                        |
