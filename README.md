@@ -33,8 +33,6 @@
 | 12    | OD280/OD315          | float   |
 | 13    | Proline              | float   |
 
-> https://www.kaggle.com/datasets/alyelbadry/house-pricing-dataset
-
 ---
 
 | Algoritma                     | Catatan                                                                               |
